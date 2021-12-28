@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "validaciones.h": "c",
+        "ordenar.h": "c",
+        "librerias.h": "c"
+    }
+}
